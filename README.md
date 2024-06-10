@@ -3,3 +3,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikd-zignuts&show_icons=true&theme=dracula" alt="imhardikdesai" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardikd-zignuts&theme=radical" alt="hardikd-zignuts" /></p>
+  <script src="https://cdn.tailwindcss.com"></script>
